@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "371110079078",
+    "firebase_url": "https://carparking-bd3ce-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "carparking-bd3ce",
+    "storage_bucket": "carparking-bd3ce.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:371110079078:android:e61ff1bc394a9fd6151ba7",
+        "android_client_info": {
+          "package_name": "com.example.carparking"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlSi776VZ7a58oOzMEPmVgJ-gAGlYVxqk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:371110079078:android:e8a2639767d8d0c8151ba7",
+        "android_client_info": {
+          "package_name": "com.example.carparking_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlSi776VZ7a58oOzMEPmVgJ-gAGlYVxqk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
